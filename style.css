@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+
+:root {
+    --bg-color: #373A40;
+    --primary-color: #EEEEEE;
+    --secondary-color: #E1AFD1;
+    --font: "Gowun Batang", serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    
+}
